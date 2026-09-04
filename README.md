@@ -23,4 +23,4 @@ Dashboard executivo desenvolvido para monitoramento em tempo real de KPIs de ven
 ---
 
 ## 📸 Visualização do Dashboard
-![Sales & Inventory Dashboard](nome-da-sua-imagem.png)
+![Sales & Inventory Dashboard](foto.png)
